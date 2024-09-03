@@ -34,7 +34,7 @@ let timelineElements = [
     title: "EXPIT | KEY ACCOUNT MANAGER",
     location: "DOHA, QATAR",
     description:
-      "Online Course in Magical Beasts and Wonders of the World - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec scelerisque sagittis tellus, non ultrices lacus tempus vel.",
+      "•	Closed two accounts deal size USD 130K (Mowasalat & Ministry of Education and Higher Education) ",
     // buttonText: "Course Certificate",
     date: "MAY 2016 – DEC 2016",
     icon: "work",
