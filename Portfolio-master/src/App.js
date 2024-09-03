@@ -6,6 +6,10 @@ import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
+import Timeline from "./Timeline";
+import "./Timeline.css";
+
+
 import {
   BrowserRouter as Router,
   Route,
@@ -39,6 +43,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
         </Routes>
+        <Timeline></Timeline>
         <Footer />
       </div>
     </Router>
