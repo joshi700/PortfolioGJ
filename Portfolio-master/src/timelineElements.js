@@ -72,8 +72,8 @@ let timelineElements = [
     title: "PATNI COMPUTERS | SR. SOFTWARE ENGINEER",
     location: "GANDHINAGAR, INDIA",
     description:
-      "Successfully implemented OnDemand Bill Payment Solution to over 50 billers",
-    date: "SEP 10 – JUL 12",
+      "Lead team of 6 consultants to develop Automation scenarios doing regression testing for Metlife application",
+    date: "Mar 2007 – Sept 10",
     icon: "work",
   },
   {
@@ -82,7 +82,7 @@ let timelineElements = [
     location: "AHMEDABAD, INDIA",
     description:
       "BE - IT",
-    date: "SEP 10 – JUL 12",
+    date: "Jun 2002 – JUL 2006",
     icon: "school",
   },
 ];
