@@ -6,7 +6,7 @@ let timelineElements = [
     description:
       "Led initiatives to enhance user integration experience for API offerings. Improved documentation, support tools, and integration mechanisms, resulting in faster, self-sufficient merchant integrations.",
     
-    date: "Nov 2022 - present",
+    date: "2022",
     icon: "work",
   },
   {
@@ -16,7 +16,7 @@ let timelineElements = [
     description:
       "Developed Payment Service which enables Merchants to accept and process Card payments from their customers using UK Telocom’s POS (point of sale) devices ",
     // buttonText: "View Backend Projects",
-    date: "APR 2021 - OCT 2022",
+    date: "2021",
     icon: "work",
   },
   {
@@ -26,7 +26,7 @@ let timelineElements = [
     description:
       "Integrated Premier core banking application and Checkfree RXP Fiserv's Electronic Bill Payment Solution by developing custom APIs",
     // buttonText: "Company Website",
-    date: "MAR 2017 – APR 2021",
+    date: "2017",
     icon: "work",
   },
   {
@@ -36,7 +36,7 @@ let timelineElements = [
     description:
       "Closed two accounts deal size USD 130K (Mowasalat & Ministry of Education and Higher Education) ",
     // buttonText: "Course Certificate",
-    date: "MAY 2016 – DEC 2016",
+    date: "2016",
     icon: "work",
   },
   {
@@ -46,7 +46,7 @@ let timelineElements = [
     description:
       "Designed & implemented two mobile apps for Jebal Ali Free Trade Zone",
     // buttonText: "College Projects",
-    date: "MAY 14 – MAY 16",
+    date: "2014",
     icon: "work",
   },
   {
@@ -55,7 +55,7 @@ let timelineElements = [
     location: "ROORKEE, INDIA",
     description:
       "Class Representative for the MBA Batch of 2014, IIT Roorkee",
-    date: "May 2012 - May 2014",
+    date: "2012",
     icon: "school",
   },
   {
@@ -64,7 +64,7 @@ let timelineElements = [
     location: "PUNE, INDIA",
     description:
       "Successfully implemented OnDemand Bill Payment Solution to over 50 billers",
-    date: "SEP 10 – JUL 12",
+    date: "2010",
     icon: "work",
   },
   {
@@ -73,7 +73,7 @@ let timelineElements = [
     location: "GANDHINAGAR, INDIA",
     description:
       "Lead team of 6 consultants to develop Automation scenarios doing regression testing for Metlife application",
-    date: "Mar 2007 – Sept 10",
+    date: "2007",
     icon: "work",
   },
   {
@@ -82,7 +82,7 @@ let timelineElements = [
     location: "AHMEDABAD, INDIA",
     description:
       "BE - IT",
-    date: "Jun 2002 – JUL 2006",
+    date: "2002",
     icon: "school",
   },
 ];
