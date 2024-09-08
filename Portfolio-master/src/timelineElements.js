@@ -4,7 +4,7 @@ let timelineElements = [
     title: "MASTERCARD PVT. LIMITED | MANAGER, PRODUCT MANAGEMENT",
     location: "PUNE, INDIA",
     description:
-      "Led initiatives to enhance user integration experience for API offerings. Improved documentation, support tools, and integration mechanisms, resulting in faster, self-sufficient merchant integrations.",
+      "Led initiatives to enhance Develop integration experience for Mastercard Payment Gateways's API offerings. Improved documentation, support tools, and integration mechanisms, resulting in faster, self-sufficient merchant integrations.",
     
     date: "2022",
     icon: "work",
@@ -44,7 +44,7 @@ let timelineElements = [
     title: "DECIMAL TECHNOLOGIES | BUSINESS ANALYST",
     location: "DUBAI, UAE",
     description:
-      "Designed & implemented two mobile apps for Jebal Ali Free Trade Zone",
+      "Implemented two mobile apps for Jebal Ali Free Trade Zone",
     // buttonText: "College Projects",
     date: "2014",
     icon: "work",
