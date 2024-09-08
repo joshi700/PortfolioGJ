@@ -7,7 +7,6 @@ function Type() {
       options={{
         strings: [
           "Product Management",
-          "Business Analysis",
           "Payment Gateway"
         ],
         autoStart: true,
