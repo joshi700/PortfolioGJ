@@ -8,6 +8,8 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import Timeline from "../../Timeline";
+import "../../Timeline.css";
 
 function Home2() {
   return (
@@ -59,7 +61,12 @@ function Home2() {
         </Row>
 
       </Container>
+       <Container>
+         <Timeline></Timeline>
+     </Container>
     </Container>
+
+    
   );
 }
 export default Home2;
