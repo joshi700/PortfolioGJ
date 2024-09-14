@@ -6,8 +6,8 @@ function Type() {
     <Typewriter
       options={{
         strings: [
-          "Product Management",
-          "Payment Gateway"
+          "Product Manager",
+          "Global Payment Gateway"
         ],
         autoStart: true,
         loop: true,
