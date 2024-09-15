@@ -10,6 +10,8 @@ import {
 import { FaLinkedinIn } from "react-icons/fa";
 import Timeline from "../../Timeline";
 import "../../Timeline.css";
+import "../../Timeline.css";
+import SkillsSection from "./SkillsSection";
 
 function Home2() {
   return (
@@ -57,6 +59,9 @@ function Home2() {
         </Row>
 
       </Container>
+            <Container>
+      <SkillsSection/>
+     </Container>
        <Container>
          <Timeline></Timeline>
      </Container>
