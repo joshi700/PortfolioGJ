@@ -5,8 +5,8 @@ const skills = [
   {
     category: "Strategy",
     expertise: [
-      "Roadmap Planning",
       "Product Roadmaps",
+      "Product Ownership",
       "Competitor Analysis",
       "Customer Interviews",
       "Feature Creation",
@@ -19,18 +19,14 @@ const skills = [
       "Stakeholder Management",
       "Agile Methodologies",
       "Mentorship & Development",
-      "Product Ownership",
     ],
   },
   {
     category: "Data-Driven Decision Making",
     expertise: [
-      "A/B Testing",
-      "Data Analysis & Reporting",
       "KPIs & Metrics Tracking",
       "User Research",
       "User Experience (UX)",
-      "Wireframes",
       "Figma",
     ],
   },
@@ -38,11 +34,10 @@ const skills = [
     category: "Technical Acumen",
     expertise: [
       "Generative AI",
-      "JIRA / Atlassian Tools",
+      "JIRA",
       "Python",
       "Javascript",
       "SQL / Databases",
-      "Tokenization",
       "Postman" ,
       "JSON/XML",
     ],
