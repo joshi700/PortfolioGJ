@@ -21,9 +21,7 @@ function About() {
               paddingBottom: "50px",
             }}
           >
-            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Know Who <strong className="purple">I'M</strong>
-            </h1>
+
             <Aboutcard />
           </Col>
           <Col
@@ -31,6 +29,9 @@ function About() {
             style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
           >
+              <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+              The space I operate in
+            </h1>
             <img src={laptopImg} alt="about" className="img-fluid" />
           </Col>
         </Row>
