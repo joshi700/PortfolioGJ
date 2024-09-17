@@ -14,7 +14,7 @@ function About() {
       <Container>
         <Row style={{ justifyContent: "center", padding: "10px" }}>
           <Col
-            md={7}
+            md={4}
             style={{
               justifyContent: "center",
               paddingTop: "30px",
@@ -27,7 +27,7 @@ function About() {
             <Aboutcard />
           </Col>
           <Col
-            md={5}
+            md={8}
             style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
           >
