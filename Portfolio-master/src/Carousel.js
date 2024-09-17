@@ -23,13 +23,13 @@ const Carousel = () => {
 
   const images = [
     
-    "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/1.jpg",
-    "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/2.jpg",
-    "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/3.jpg",
-    "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/4.jpg",
-    "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/5.jpg",
-    "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/6.jpg",
-    "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/7.jpg",
+    "https://github.com/joshi700/PortfolioGJ/blob/4a4a4af79ccce7de74512ee44652dcb825321add/Portfolio-master/src/Assets/1.jpg",
+    "https://github.com/joshi700/PortfolioGJ/blob/4a4a4af79ccce7de74512ee44652dcb825321add/Portfolio-master/src/Assets/2.jpg",
+    "https://github.com/joshi700/PortfolioGJ/blob/4a4a4af79ccce7de74512ee44652dcb825321add/Portfolio-master/src/Assets/3.jpg",
+    "https://github.com/joshi700/PortfolioGJ/blob/4a4a4af79ccce7de74512ee44652dcb825321add/Portfolio-master/src/Assets/4.jpg",
+    "https://github.com/joshi700/PortfolioGJ/blob/4a4a4af79ccce7de74512ee44652dcb825321add/Portfolio-master/src/Assets/5.jpg",
+    "https://github.com/joshi700/PortfolioGJ/blob/4a4a4af79ccce7de74512ee44652dcb825321add/Portfolio-master/src/Assets/6.jpg",
+    "https://github.com/joshi700/PortfolioGJ/blob/4a4a4af79ccce7de74512ee44652dcb825321add/Portfolio-master/src/Assets/7.jpg",
   ];
 
   return (
