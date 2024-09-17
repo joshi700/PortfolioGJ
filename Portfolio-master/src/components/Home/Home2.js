@@ -12,6 +12,7 @@ import Timeline from "../../Timeline";
 import "../../Timeline.css";
 import "../../Timeline.css";
 import SkillsSection from "./SkillsSection";
+import Carousel from "../../Carousel";
 
 function Home2() {
   return (
@@ -65,6 +66,10 @@ function Home2() {
        <Container>
          <Timeline></Timeline>
      </Container>
+      <Container>
+        <h1 className="title" style={{ fontSize: "2.6em" }}>GOOD TIMES!!</h1>
+        <Carousel />
+        </Container>
     </Container>
 
     
