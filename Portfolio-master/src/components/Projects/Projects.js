@@ -12,7 +12,7 @@ const projects = [
 const Projects = () => {
   return (
     <div>
-      <h1>My Projects</h1>
+      <h1>Projects I have been part of</h1>
       <div className="project-list">
         {projects.map(project => (
           <Link to={`/projects/${project.id}`} key={project.id}>
