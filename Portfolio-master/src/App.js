@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
 //import Timeline from "./Timeline";
 //import "./Timeline.css";
-//import Projects from './components/Projects/Projects';
+import Projects from './components/Projects/Projects';
 import ProjectDetails from './components/Projects/ProjectDetails';
 
 
