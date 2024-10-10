@@ -3,7 +3,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 
 const projects = [
-  { id: 1, title: 'CheckFree RXP', description: 'Integrating Fiserv's Bill Pay solution - CheckFree RXP to Stifel's Online Banking Platform' },
+  { id: 1, title: 'CheckFree RXP', description: 'Integrating Fiservs Bill Pay solution - CheckFree RXP to Stifels Online Banking Platform' },
   { id: 2, title: 'The Vault ', description: 'Central Business Intelligence and Service Delivery Framework' },
   // Add more projects as needed
 ];
