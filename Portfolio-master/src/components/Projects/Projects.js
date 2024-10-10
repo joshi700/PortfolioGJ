@@ -4,8 +4,8 @@ import { Link } from 'react-router-dom';
 import ProjectCard from './ProjectCard';
 
 const projects = [
-  { id: 1, title: 'Project 1', description: 'Description of project 1' },
-  { id: 2, title: 'Project 2', description: 'Description of project 2' },
+  { id: 1, title: 'CheckFree RXP', description: 'Integrating Fiserv's Bill Pay solution - CheckFree RXP to Stifel's Online Banking Platform' },
+  { id: 2, title: 'The Vault ', description: 'Central Business Intelligence and Service Delivery Framework' },
   // Add more projects as needed
 ];
 
